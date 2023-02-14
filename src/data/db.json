@@ -1,0 +1,91 @@
+{
+  "credentials": [
+    {
+      "id": 1,
+      "user": "Argely24@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "usuarios": [
+    {
+      "nombre": "Argely",
+      "pApellido": "de Leon",
+      "sApellido": "Mateo",
+      "cedula": "402-0866317-5",
+      "edad": "25",
+      "genero": "masculino",
+      "direccion": "C/ Antonio Guzman #28",
+      "telefono": "809-716-0624",
+      "email": "argely24@gmail.com",
+      "estadoCivil": "soltero",
+      "hijos": "no",
+      "fechaNac": "Mon Feb 13 2023",
+      "fNacimiento": "2023-02-15",
+      "id": "user-1"
+    },
+    {
+      "nombre": "Adriana",
+      "pApellido": "Mateo",
+      "sApellido": "Gonzalez",
+      "cedula": "402-22057525-5",
+      "edad": "38",
+      "genero": "femenino",
+      "direccion": "C/ Marcelo Lara #36",
+      "telefono": "809-931-9724",
+      "email": "argelyps@gmail.com",
+      "estadoCivil": "unionLibre",
+      "hijos": "no",
+      "fechaNac": "Mon Feb 13 2023",
+      "fNacimiento": "2023-02-08",
+      "id": "user-2"
+    },
+    {
+      "nombre": "Marcelo",
+      "pApellido": "Mendez",
+      "sApellido": "lara",
+      "cedula": "402-0866317-5",
+      "edad": "55",
+      "genero": "Masculino",
+      "direccion": "C/ Juanito Martinez #18",
+      "telefono": "775-256-7090",
+      "email": "Mlara@idea.com",
+      "estadoCivil": "unionLibre",
+      "hijos": "no",
+      "fechaNac": "Mon Feb 13 2023",
+      "fNacimiento": "2023-02-01",
+      "id": "user-3"
+    },
+    {
+      "nombre": "Belkis",
+      "pApellido": "Figuereo",
+      "sApellido": "Figuereo",
+      "cedula": "076-2356317-1",
+      "edad": "21",
+      "genero": "femenino",
+      "direccion": "C/ Progreso #3",
+      "telefono": "775-256-7090",
+      "email": "Adrina@idea.com",
+      "estadoCivil": "unionLibre",
+      "hijos": "no",
+      "fechaNac": "Mon Feb 13 2023",
+      "fNacimiento": "2023-02-01",
+      "id": "user-4"
+    },
+    {
+      "nombre": "Carlos",
+      "pApellido": "Mendez",
+      "sApellido": "Gonzalez",
+      "cedula": "001-0867699-0",
+      "edad": "31",
+      "genero": "otro",
+      "direccion": "asdasdasdasdas",
+      "telefono": "775-256-7090",
+      "email": "Mendez@idea.com",
+      "estadoCivil": "soltero",
+      "hijos": "no",
+      "fechaNac": "Mon Feb 13 2023",
+      "fNacimiento": "2023-02-01",
+      "id": "user-5"
+    }
+  ]
+}

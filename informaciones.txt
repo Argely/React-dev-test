@@ -1,0 +1,35 @@
+*** NOTAS SOBRE PROYECTO ****
+
+** Credenciales de acceso **
+
+user : user@test.com
+pass : 1234
+
+** Especificaciones ** 
+
+- Acceso login realizado con API Context
+- Formulario para añadir usuario creado que REDUX 
+- Su usaron tantos hooks propios de react (useState, useEffect, useContext) como hooks provenientes librerias externas (useNavigator)
+- Se usaron librerias para manejar rutas, generar ids de forma automatic, manejar estilos entre otras.
+- Datos de usuarios se guardan en archivo JSON que a su vez es ejecutado mediante JSON server(comando para iniciar API: npm run start-api )
+- Las consultas son realizadas mediante axios.
+- Estilos aplicados en su totalidad usando Tailwindcss con su adaptacion para Reactjs.
+- Se usa typescript en su mayoria para para declarar tipos de parametros usados en los eventos y se definio por igual la interfaz IUser para agregar tipado a los objetos contenedores de usuarios tambien se creo el tipado para los hooks useAppDispatcher y useApp
+
+
+** RUTAS ** 
+/ : ruta por defecto, carga dashboard, solo se accesa si estas loggeado
+/login : Solo accesible si no estas loggeado
+/private/user-list: Solo  accesible si estas loggeado
+/private/user-form: Solo  accesible si estas loggeado
+
+
+** Notas adicionales ** 
+
+No se añadieron las siguientes funcionalidades en base a situacion ya explicada en el correo: 
+
+- Validacion de formularion mediante typescript
+- Paginacion
+- Dropdown(boton logout)
+- Manejo de errores
+- diseño(No esta completo)
